@@ -1,0 +1,6 @@
+100
+Enero 10 20 80 -1
+Febrero 50 5 -1
+Marzo 120 30 -1
+Abril 60 10 40 20 -1
+Mayo 10 -1
